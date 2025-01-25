@@ -4,7 +4,7 @@ body {
     padding: 20px;
     width: 850px;
     margin: auto;
-    font-size: 16px;
+    font-size: 18px;
     font-family: sans-serif ;
 }
 
@@ -65,5 +65,5 @@ h1 {
 }
 
 .division3 {
-    font-size: 50px;
+    margin-top: 100px;
 }
