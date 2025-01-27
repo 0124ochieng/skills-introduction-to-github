@@ -2,12 +2,10 @@ body {
     background-color: black;
     color: white;
     padding: 20px;
-    max-width: 1150px;
+    max-width: 850px;
     margin: auto;
     font-size: 18px;
     font-family: sans-serif ;
-    align-items: center;
-    justify-content: center;
 }
 
 @media (max-width: 800px) {
@@ -21,7 +19,20 @@ body {
     }
 
 .division0{
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.division0-0{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.division1{
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -31,7 +42,7 @@ body {
 }
 
 .tagline {
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .division2{

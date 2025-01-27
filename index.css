@@ -58,6 +58,7 @@ h1 {
 
 .division2 {
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 #a_creatives {
@@ -66,4 +67,9 @@ h1 {
 
 .division3 {
     margin-top: 100px;
+}
+
+.theme-photo {
+    width: 300px;
+    border-radius: 10%;
 }
